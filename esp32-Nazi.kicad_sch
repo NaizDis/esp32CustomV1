@@ -11176,6 +11176,14 @@
 				(hide yes)
 			)
 		)
+		(property "MNF PART NUMBER" "C1525"
+			(at 167.64 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4d2facbe-af38-4869-859e-315b47d42852")
 		)
@@ -11245,6 +11253,14 @@
 				(hide yes)
 			)
 		)
+		(property "MNF PART NUMBER" ""
+			(at 276.86 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "782462e2-fe2c-414c-bb20-a337a601a3ce")
 		)
@@ -11310,6 +11326,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "MNF PART NUMBER" "C52923"
+			(at 212.09 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -11513,6 +11537,14 @@
 				(hide yes)
 			)
 		)
+		(property "MNF PART NUMBER" ""
+			(at 203.2 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a0d9f360-1fca-4dbf-91d8-5978fc8cf631")
 		)
@@ -11578,6 +11610,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "MNF PART NUMBER" ""
+			(at 279.4 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -11649,6 +11689,14 @@
 				(hide yes)
 			)
 		)
+		(property "MNF PART NUMBER" "C1548"
+			(at 251.46 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b068fbe0-62cd-455b-93fd-c5746e0305b7")
 		)
@@ -11714,6 +11762,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "MNF PART NUMBER" "C25105"
+			(at 78.74 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -11784,6 +11840,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "MNF PART NUMBER" "C15525"
+			(at 203.2 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -11919,6 +11983,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "MNF PART NUMBER" "C15525"
+			(at 203.2 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -12064,6 +12136,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "MNF PART NUMBER" "C2286"
+			(at 219.71 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -12330,6 +12410,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "MNF PART NUMBER" "C15525"
+			(at 154.94 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -12605,6 +12693,14 @@
 				(hide yes)
 			)
 		)
+		(property "MNF PART NUMBER" "C2286"
+			(at 218.44 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1e3bdf4f-a3b1-4819-825f-eab3949e6edc")
 		)
@@ -12804,6 +12900,14 @@
 				(hide yes)
 			)
 		)
+		(property "MNF PART NUMBER" "C77103"
+			(at 180.34 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c3eca3d5-b497-4338-8087-e0b77cef3073")
 		)
@@ -12869,6 +12973,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "MNF PART NUMBER" "C4109"
+			(at 267.97 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -12939,6 +13051,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "MNF PART NUMBER" "C15525"
+			(at 166.37 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -13076,6 +13196,14 @@
 				(hide yes)
 			)
 		)
+		(property "MNF PART NUMBER" "C25117"
+			(at 186.69 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6b8424cb-19ed-4303-94a6-302f5c3b3cf5")
 		)
@@ -13142,6 +13270,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "MNF PART NUMBER" "C32346"
+			(at 316.23 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -13411,6 +13547,14 @@
 				(hide yes)
 			)
 		)
+		(property "MNF PART NUMBER" "C25764"
+			(at 328.93 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "38f54bc4-a23a-4799-a3de-c6e7b52600c9")
 		)
@@ -13547,6 +13691,14 @@
 				(hide yes)
 			)
 		)
+		(property "MNF PART NUMBER" "C15127"
+			(at 346.71 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4536035d-4ee3-42ee-b0de-0788f71d8260")
 		)
@@ -13615,6 +13767,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "MNF PART NUMBER" "C13595"
+			(at 245.11 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -13747,6 +13907,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "MNF PART NUMBER" "C17168"
+			(at 236.22 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -13882,6 +14050,14 @@
 				(hide yes)
 			)
 		)
+		(property "MNF PART NUMBER" "470R"
+			(at 78.74 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "61f8141a-a4c8-44b6-89bf-35fca07d99ae")
 		)
@@ -14015,6 +14191,14 @@
 				(hide yes)
 			)
 		)
+		(property "MNF PART NUMBER" "C25905"
+			(at 60.96 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a820b3ba-ac96-45d8-aaf5-d0774716715a")
 		)
@@ -14082,6 +14266,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "MNF PART NUMBER" "C25744"
+			(at 266.7 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -14183,7 +14375,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "200K"
+		(property "Value" "100K"
 			(at 346.71 236.22 90)
 			(effects
 				(font
@@ -14217,6 +14409,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "MNF PART NUMBER" "C25741"
+			(at 346.71 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -14352,6 +14552,14 @@
 				(hide yes)
 			)
 		)
+		(property "MNF PART NUMBER" "C1525"
+			(at 186.69 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "436dffc4-53fa-4493-a612-0411899ec18d")
 		)
@@ -14420,6 +14628,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "MNF PART NUMBER" ""
+			(at 179.07 260.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -14752,6 +14968,14 @@
 				(hide yes)
 			)
 		)
+		(property "MNF PART NUMBER" "C25764"
+			(at 328.93 270.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "364f6130-d2c0-4773-a6ca-77d4bd2c6685")
 		)
@@ -14887,6 +15111,14 @@
 				(hide yes)
 			)
 		)
+		(property "MNF PART NUMBER" "C318884"
+			(at 266.7 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "1823089f-5b69-4ec9-a9cf-31584115acf5")
 		)
@@ -14952,6 +15184,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "MNF PART NUMBER" "C1547"
+			(at 307.34 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -15087,6 +15327,14 @@
 				(hide yes)
 			)
 		)
+		(property "MNF PART NUMBER" "C17168"
+			(at 153.67 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6be177bc-f84e-45d9-8e6f-dad56152e83f")
 		)
@@ -15152,6 +15400,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "MNF PART NUMBER" "C1525"
+			(at 172.72 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -15223,6 +15479,14 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 388.62 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MNF PART NUMBER" ""
 			(at 388.62 81.28 0)
 			(effects
 				(font
@@ -15346,6 +15610,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "MNF PART NUMBER" ""
+			(at 172.72 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -15546,6 +15818,14 @@
 				(hide yes)
 			)
 		)
+		(property "MNF PART NUMBER" "C15525"
+			(at 119.38 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "9f6760bf-06cc-4a8e-bc60-22b4ed7ab41d")
 		)
@@ -15611,6 +15891,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "MNF PART NUMBER" "C17168"
+			(at 236.22 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -15680,6 +15968,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "MNF PART NUMBER" "C15525"
+			(at 264.16 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -15879,6 +16175,14 @@
 				(hide yes)
 			)
 		)
+		(property "MNF PART NUMBER" "C1525"
+			(at 276.86 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "e9dbda2d-8989-40e7-8c43-fa388168e007")
 		)
@@ -16016,6 +16320,14 @@
 				(hide yes)
 			)
 		)
+		(property "MNF PART NUMBER" "C424093"
+			(at 250.19 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "006b384b-0a24-46fc-bba4-b5bcbee26a28")
 		)
@@ -16092,6 +16404,14 @@
 				(hide yes)
 			)
 		)
+		(property "MNF PART NUMBER" "C1525"
+			(at 223.52 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "7ffd9fb1-4ac7-4985-a5c3-19d902fa0845")
 		)
@@ -16161,6 +16481,14 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 425.45 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MNF PART NUMBER" ""
 			(at 425.45 81.28 0)
 			(effects
 				(font
@@ -16546,6 +16874,14 @@
 				(hide yes)
 			)
 		)
+		(property "MNF PART NUMBER" "C25117"
+			(at 236.22 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "57161d0b-1a24-4e3e-8f63-33614c8eb0cd")
 		)
@@ -16747,6 +17083,14 @@
 				(hide yes)
 			)
 		)
+		(property "MNF PART NUMBER" "C1547"
+			(at 142.24 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f63ecbaa-2105-482c-ab54-3f80a17b8497")
 		)
@@ -16877,6 +17221,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "MNF PART NUMBER" "C15525"
+			(at 153.67 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -17010,6 +17362,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "MNF PART NUMBER" "C25905"
+			(at 60.96 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -17214,6 +17574,14 @@
 				(hide yes)
 			)
 		)
+		(property "MNF PART NUMBER" "C318884"
+			(at 283.21 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ecea9cab-ef65-4bb9-a9a1-c3de80a32772")
 		)
@@ -17281,6 +17649,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "MNF PART NUMBER" "C318884"
+			(at 248.92 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -17417,6 +17793,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "MNF PART NUMBER" "C15525"
+			(at 144.78 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -17815,6 +18199,14 @@
 				(hide yes)
 			)
 		)
+		(property "MNF PART NUMBER" "C1547"
+			(at 325.12 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "21bbcc72-88a2-4a7c-8aeb-9fe421928e2e")
 		)
@@ -17884,6 +18276,14 @@
 				(hide yes)
 			)
 		)
+		(property "MNF PART NUMBER" "C1525"
+			(at 76.2 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0732bf7b-444e-4952-83c6-222251014689")
 		)
@@ -17949,6 +18349,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "MNF PART NUMBER" "C52923"
+			(at 265.43 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -18017,6 +18425,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "MNF PART NUMBER" "C6186"
+			(at 137.16 260.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -18089,6 +18505,14 @@
 				(hide yes)
 			)
 		)
+		(property "MNF PART NUMBER" "C2480"
+			(at 361.95 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "36c03f4f-29be-4f88-9db5-03d0672ba051")
 		)
@@ -18156,6 +18580,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "MNF PART NUMBER" "C25117"
+			(at 219.71 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -18290,6 +18722,14 @@
 				(hide yes)
 			)
 		)
+		(property "MNF PART NUMBER" "C17168"
+			(at 236.22 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3abcc16b-907b-45df-a588-db8550b42521")
 		)
@@ -18355,6 +18795,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "MNF PART NUMBER" "C17168"
+			(at 236.22 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -18424,6 +18872,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "MNF PART NUMBER" ""
+			(at 63.5 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -18503,6 +18959,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "MNF PART NUMBER" "C2286"
+			(at 186.69 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -18706,6 +19170,14 @@
 				(hide yes)
 			)
 		)
+		(property "MNF PART NUMBER" "C25744"
+			(at 298.45 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6e072bc7-6514-434b-9160-687a51ebea46")
 		)
@@ -18789,7 +19261,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 298.45 190.5 180)
+		(at 298.45 190.5 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18797,7 +19269,7 @@
 		(dnp no)
 		(uuid "b7a78735-a76e-49d0-bd5c-2a785ef175bf")
 		(property "Reference" "C26"
-			(at 296.418 192.786 0)
+			(at 300.482 188.214 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18805,7 +19277,7 @@
 			)
 		)
 		(property "Value" "10nF"
-			(at 295.402 188.214 0)
+			(at 301.498 192.786 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18813,7 +19285,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 297.4848 186.69 0)
+			(at 299.4152 194.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18837,6 +19309,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "MNF PART NUMBER" "C15195"
+			(at 298.45 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -19040,6 +19520,14 @@
 				(hide yes)
 			)
 		)
+		(property "MNF PART NUMBER" "C25744"
+			(at 283.21 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "00990879-8a48-4bf4-8895-31382801a30b")
 		)
@@ -19171,6 +19659,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "MNF PART NUMBER" "C1525"
+			(at 214.63 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -19309,6 +19805,14 @@
 				(hide yes)
 			)
 		)
+		(property "MNF PART NUMBER" "C97521"
+			(at 411.48 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "e3f93e2a-1f99-4d27-a7bb-815565031e4e")
 		)
@@ -19392,6 +19896,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "MNF PART NUMBER" "C15195"
+			(at 223.52 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -19528,6 +20040,14 @@
 				(hide yes)
 			)
 		)
+		(property "MNF PART NUMBER" ""
+			(at 317.5 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9eec2bae-920f-44a2-a2ab-89236077744a")
 		)
@@ -19661,6 +20181,14 @@
 				(hide yes)
 			)
 		)
+		(property "MNF PART NUMBER" "C11702"
+			(at 228.6 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d5f477df-1954-453b-b2fb-984a01e48779")
 		)
@@ -19728,6 +20256,14 @@
 				(hide yes)
 			)
 		)
+		(property "MNF PART NUMBER" "C52923"
+			(at 163.83 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d9dce247-200d-4a81-9b38-ed74605bc4ed")
 		)
@@ -19793,6 +20329,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "MNF PART NUMBER" "C17168"
+			(at 236.22 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -19995,6 +20539,14 @@
 				(hide yes)
 			)
 		)
+		(property "MNF PART NUMBER" "C1548"
+			(at 238.76 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5857665c-4810-4a65-acb7-b4201e0501c6")
 		)
@@ -20130,13 +20682,21 @@
 				(hide yes)
 			)
 		)
-		(property "PartNumber" "C2913192"
+		(property "PartNumber" ""
 			(at 205.74 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "MNF PART NUMBER" "C2913196"
+			(at 205.74 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "13"
@@ -20374,6 +20934,14 @@
 				(hide yes)
 			)
 		)
+		(property "MNF PART NUMBER" ""
+			(at 262.89 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "90e60daf-12b2-427c-b550-cc42f43ceb7d")
 		)
@@ -20507,6 +21075,14 @@
 				(hide yes)
 			)
 		)
+		(property "MNF PART NUMBER" "C5261125"
+			(at 127 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7862afc4-b713-4917-acc0-bf3292c6ec7a")
 		)
@@ -20581,6 +21157,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "MNF PART NUMBER" "C1547"
+			(at 142.24 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -20715,6 +21299,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "MNF PART NUMBER" "C19274016"
+			(at 36.83 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "A7"
@@ -20886,6 +21478,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "MNF PART NUMBER" ""
+			(at 262.89 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
